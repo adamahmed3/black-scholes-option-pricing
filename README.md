@@ -31,7 +31,7 @@ $$R_t = \ln\left(\frac{S_t}{S_{t-1}}\right)$$
   
 - Annualized Volatility ($\sigma$):
 
-  $$\sigma = s \times \sqrt{251}$$
+  $$\sigma = s \times \sqrt{252}$$
 
 
 
